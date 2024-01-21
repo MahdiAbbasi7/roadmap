@@ -38,7 +38,8 @@
 - [ویو جی اس (Vue.Js)](#ویو-جی-اس)
 - [تایپ اسکریپت (TypeScript)](#تایپ-اسکریپت)
 - [مهندسی پرامت نویسی (PromptEngineering)](#مهندسی-پرامت-نویسی)
-- [راست (rust)](#راست)
+- [راست (Rust)](#راست)
+- [کوبرنیتز (Kubernetes)](#کوبرنیتز)
 
 
 
@@ -156,6 +157,10 @@
 ## راست
 
 ![rust](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/097c2cbe-b35f-40e8-8e34-7f1c2a32c778)
+
+## کوبرنیتز
+![kubernetes](https://github.com/MahdiAbbasi7/roadmap/assets/77788727/b4ad837e-ccdf-4792-b66f-770fe0741699)
+
 
 ## نکاتی برای ترجمه‌
 اگر‌ می‌خواید در توسعه و ترجمه این پروژه مشارکت کنید به این [صفحه](https://github.com/barnamenevisi/roadmap/issues/1) مراجعه کنید
